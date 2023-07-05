@@ -42,7 +42,7 @@ public static void main(string[] args) {
 --
 * [ ] A. Sum is 600
 * [ ] B. Compilation fails at line n1.
-* [*] C. Compilation fails at line n2.
+* [ ] C. Compilation fails at line n2.
 * [ ] D. A ClassCastException is thrown at line n1.
 * [ ] E. A ClassCastException is thrown at line n2.
 
